@@ -9,3 +9,6 @@
 역할 : 관광지 공공 API 파싱 작업, 일부 데이터 베이스 모델링 작업 및 메인 페이지를 포함한 전체 기능을 개발하였습니다. 
        (이는 팀프로젝트의 목표였던 '처음부터 끝까지 모든 기능 구현하기' 에 따라 진행되었습니다)
 활용기술 : JAVA, JSP, HTML5, CSS3, JavaScript, jQuery, Spring Boot, STS, AWS(EC2, RDS)
+
+
+![aircamp](https://github.com/ssapchap/aircamp/assets/163481508/89b8721c-5a8d-497c-a4ba-3dcdefc81b38)
