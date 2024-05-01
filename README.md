@@ -11,5 +11,7 @@
 
 활용기술 : JAVA, JSP, HTML5, CSS3, JavaScript, jQuery, Spring Boot, STS, AWS(EC2, RDS)
 
+⇒ 평가 절차는 따로 없었지만, 강사님의 개별 평가를 토대로 1등으로 프로젝트를 성공적으로 마무리했습니다. 팀원 각자가 처음부터 끝까지 기능을 개발하다 보니 세부 기능을 구현하지 못한 점이 아쉬웠습니다. 예를 들어, 결제 기능을 별도의 탭으로 구현하려 했으나 시간 부족으로 실패했습니다. 지금은 2차 프로젝트에서 결제 기능을 담당하고 있습니다
+
 
 ![aircamp](https://github.com/ssapchap/aircamp/assets/163481508/89b8721c-5a8d-497c-a4ba-3dcdefc81b38)
