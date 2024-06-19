@@ -4,12 +4,12 @@ http://13.124.184.222:8080 (현재 중단)
 <br><br>
 
 ✔ <u>주요 기술</u>
-- JAVA, JSP, jQuery, Spring Boot, MySQL, Gradle STS, AWS
+- JAVA, JSP, jQuery, Spring Boot, MySQL, Gradle, AWS
 
 ✔ <u>역할</u>
-- 공통 기획 및 UI 설계
-- 관광지 공공 API 파싱
-- Database Schema 설계 및 개발환경 구축, Frontend 및 Backend 개발
++ 공통 기획 및 UI 설계
++ 관광지 공공 API 파싱
++ Database Schema 설계 및 개발환경 구축, Frontend 및 Backend 개발
 
 <br>
 
